@@ -1,0 +1,7 @@
+Fullstack Web Developer Nanodegree
+Project1: Movie Trailer Website
+This python script uses fresh_tomatoes.py template that takes a single list/array
+fresh_tomatoes.html is generated based on input from entertainment_center.py file
+
+To run:
+copy all files to a folder and use python run the entertainment_center.py script to genearate my favorite movies website trailer
